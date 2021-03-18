@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Flooring_Companion</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Pack Calculator</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="price_per_pack">Price per pack</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="m2">M2</string>
+    <string name="off">Off</string>
+    <string name="on">On]</string>
+    <string name="feet">Feet</string>
+    <string name="calculate">Calculate</string>
+    <string name="size_per_pack">Size per pack</string>
+    <string name="pack_calculator">Pack Calculator</string>
+</resources>
